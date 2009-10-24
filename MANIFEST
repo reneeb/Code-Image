@@ -1,0 +1,15 @@
+Changes
+Makefile.PL
+MANIFEST
+META.yml
+README
+
+lib/Code/Image.pm
+
+t/00_basic.t
+t/01_methods.t
+t/02_create_image.t
+t/96_boilerplate.t
+t/97_manifest.t
+t/98_pod_coverage.t
+t/99_pod.t

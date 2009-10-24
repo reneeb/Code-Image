@@ -1,0 +1,23 @@
+---
+abstract: 'generate image with syntaxhighlighted code'
+author:
+  - 'Renee Baecker <module@renee-baecker.de>'
+build_requires:
+  File::Basename: 2.74
+  File::Spec: 0.87
+  GD: 
+  Syntax
+  Test::More: 0
+generated_by: 'h2xs version 1.23'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
+name: Code-Image
+provides:
+  Code::Image:
+    file: lib/Code/Image.pm
+    version: 0.01
+resources:
+  license: http://dev.perl.org/licenses
+version: 0.01
